@@ -1,0 +1,220 @@
+  #+BEGIN_QUOTE
+  Git gud scrub!
+
+      --- anonymous 
+  #+END_QUOTE
+
+* MASTER TODO LIST:
+
+  The goal of this document is to create a course for me to brush up on computer
+  science and deal with the weaknesses I have when it comes to the Triplebyte
+  exam, thereby ensuring that I pass and get a job.
+
+  According to Triplebyte I am good at back-end web and systems architecture but
+  am quite shit at low level systems and academic CS. I intend to remedy this by
+  becoming good at those while also becoming much faster. (though apparently I
+  was actually fast enough by their standards).
+
+*** TODO [#A] Cease to be scrub
+*** TODO [#A] Take Triplebyte test
+*** TODO [#A] Git gud
+
+
+** W0 TODO LIST:
+**** TODO Git dialed In
+
+*** W0 D3
+    The goal of this is to get ready for everything
+***** DONE Get debugger working
+***** DONE Finish TODO list
+
+*** W0 D4
+    The goal of this is to get into python more and get ready for the next few weeks
+***** TODO Read /Effective Python/ cover to cover
+***** TODO Wiki walk about python2 vs python3
+
+*** W0 D5
+    The goal of this is to get comfortable with debugging in python
+***** TODO Wiki walk on python debugger
+***** TODO Debug test program
+***** TODO Wiki walk on advanced features of python
+
+*** W0 D6
+    The goal of this day is to focus on functional programming topics and create
+    an insult chat bot thing.
+***** TODO Wiki walk on functional programming on python
+***** TODO Write short program for argument generation
+
+
+** W1 TODO LIST:
+**** TODO [#A] Git fast
+**** TODO [#B] Learn more about algorithms
+**** TODO [#B] Learn more 
+
+*** W1 D0
+    This day is list and sorting themed
+***** TODO Implement list in python
+***** TODO Implement quick sort in python
+***** TODO Implement merge sort in python
+***** TODO Implement radix sort in python
+
+*** W1 D1
+    This day is hashing themed
+***** TODO Implement hash function in python
+***** TODO Implement hash map in python
+***** TODO Implement password system with salt in python
+***** TODO Implement file hashing program in python 
+
+*** W1 D2
+    This day is binary tree themed
+***** TODO Implement binary tree in python
+***** TODO Implement Red/Black tree in python
+***** TODO Implement AVL tree in python
+***** TODO Implement all tree traversals in python
+
+*** W1 D3
+    This day is graph themed and focused on implementing graph related stuff
+***** TODO implement graph in python
+
+*** W1 D4
+    This day is re-implementation themed and centers around my project creation and terminal slideshow programs
+***** TODO Re-implement ~pcreate~ in python
+***** TODO Re-implement ~tslides~ in python
+
+*** W1 D5
+    This day is small program themed and focuses on expanding my horizons in that area
+***** TODO Create simple gambling game in python
+***** TODO Create simple 
+
+*** W1 D6
+    This day is cryptography themed
+***** TODO Create PRNG
+***** TODO Create basic one time pad program
+***** TODO Create basic stream encryption program
+***** TODO Create (shitty) password manager for terminal
+
+
+** W2 TODO LIST:
+**** TODO [#A] Git low-level
+**** TODO [#B] Study OS design
+**** TODO [#B] Develop register based VM in Python
+**** TODO [#B] Develop multi-threaded Primefinder
+**** TODO [#C] Develop basic OS
+
+*** W2 D0
+    The goal of this day is to go through 
+***** TODO Brush up on binary
+***** TODO Wiki walk on processor architecture
+***** TODO Wiki walk on assembly varieties
+***** TODO Brush up on IEEE Reals
+
+*** W2 D1
+    The goal of this day is to design a VM and practice there
+***** TODO Design assembly for VM
+***** TODO Write assembler for the VM
+***** TODO Write interpreter for byte-code
+
+*** W2 D2
+    The goal of this day is to practice multi-threading
+***** TODO Wiki walk on multi-threading
+***** TODO Create multi-threaded version of primefinder in C++
+
+*** W2 D3
+    The goal of this day is OS related stuff
+***** TODO Wiki walk on OS design
+***** TODO Wiki walk on page locking and other low level concepts
+***** TODO Lay out fundamental design of OS
+
+*** W2 D4
+***** TODO Build OS day 0
+
+*** W2 D5
+***** TODO Build OS day 1
+
+*** W2 D6
+    The goal for this day is to make a shell for my little OS
+***** TODO Create shell for OS
+
+
+** W3 TODO LIST:
+**** TODO [#A] Git abstract
+**** TODO [#B] Understand how internet works more
+**** TODO [#B] Get more academic knowledge of CS
+**** TODO [#B] Get more API oriented experience
+
+*** W3 D0
+    The goal of this is to get more skilled on network related things
+***** TODO Memorize OSI model
+***** TODO Read about how packets work
+***** TODO Practice IP address calculations
+***** TODO Study server design fundamentals and HTML error codes
+
+*** W3 D1
+    The goal of this day is to go into OOP
+***** TODO Go over UML again
+***** TODO Wiki walk on OOP concepts more and fundamental design concepts
+***** TODO Wiki walk on how classes are implemented in various languages
+***** TODO Wiki walk on how garbage collection works in modern languages
+
+*** W3 D2
+    The goal of this day is to create the first GUI app I am proud of and don't
+    absolutely hate to have created.
+***** TODO Learn Python GUI app creation suite
+***** TODO Create basic GUI for quiz program 
+***** TODO Create basic GUI for mini OS if I have time
+
+*** W3 D3
+    The goal of this day is to create an org mode discord bot for discord so I
+    can get ORGanized.
+***** TODO Get discord bot account
+***** TODO Figure out Discord python API
+***** TODO Create program for the bot to fetch data from discord
+***** TODO Create program for the bot to send schedules to discord
+***** TODO Crate relevant emacs hooks for bot
+
+*** W3 D4
+    The goal of this day is to study type systems.
+***** TODO Wiki walk on category theory
+***** TODO Wiki walk on type systems
+***** TODO Wiki walk on set theory
+***** TODO Add types to my shell if I can
+
+*** W3 D5
+    The goal of this day is to become comfortable with explaining monads to
+    people and not look insane doing so
+***** TODO Wiki walk on monads
+***** TODO Wiki walk on functional programming languages
+***** TODO Implement some lambda calculus stuff in python
+***** TODO Create monads in my own shell language
+
+*** W3 D6
+    The goal of this day is to learn about math in general more 
+***** TODO Wiki walk on computability theory
+***** TODO Wiki walk on combinatorics
+***** TODO Wiki walk on graph theory
+***** TODO Create basic finite state machine language
+
+** W4 TODO LIST:
+   This list will focus on debugging practice and making commits to open source
+   projects on GitHub.
+
+
+** BEFORE TEST TODO LIST:
+*** T-4d
+***** TODO Debug open source program and submit changes to github
+***** TODO Refactor some old shitty code of my own
+
+*** T-3d
+***** TODO Go over notes and find what I need to brush up on
+***** TODO Brush up on that
+
+*** T-2d
+***** TODO Brush up on that more
+
+*** T-1d
+***** TODO Brush up on that even more
+***** TODO Re-read algorithm design manual
+
+*** T-0d
+***** TODO Go over notes one last time
+***** TODO Take test
