@@ -1,7 +1,7 @@
   #+BEGIN_QUOTE
   Git gud scrub!
 
-      --- anonymous 
+      --- anonymous
   #+END_QUOTE
 
 * MASTER TODO LIST:
@@ -49,7 +49,7 @@
 ** W1 TODO LIST:
 **** TODO [#A] Git fast
 **** TODO [#B] Learn more about algorithms
-**** TODO [#B] Learn more 
+**** TODO [#B] Learn more
 
 *** W1 D0
     This day is list and sorting themed
@@ -63,7 +63,7 @@
 ***** TODO Implement hash function in python
 ***** TODO Implement hash map in python
 ***** TODO Implement password system with salt in python
-***** TODO Implement file hashing program in python 
+***** TODO Implement file hashing program in python
 
 *** W1 D2
     This day is binary tree themed
@@ -84,7 +84,7 @@
 *** W1 D5
     This day is small program themed and focuses on expanding my horizons in that area
 ***** TODO Create simple gambling game in python
-***** TODO Create simple 
+***** TODO Create simple
 
 *** W1 D6
     This day is cryptography themed
@@ -102,7 +102,7 @@
 **** TODO [#C] Develop basic OS
 
 *** W2 D0
-    The goal of this day is to go through 
+    The goal of this day is to go through
 ***** TODO Brush up on binary
 ***** TODO Wiki walk on processor architecture
 ***** TODO Wiki walk on assembly varieties
@@ -160,7 +160,7 @@
     The goal of this day is to create the first GUI app I am proud of and don't
     absolutely hate to have created.
 ***** TODO Learn Python GUI app creation suite
-***** TODO Create basic GUI for quiz program 
+***** TODO Create basic GUI for quiz program
 ***** TODO Create basic GUI for mini OS if I have time
 
 *** W3 D3
@@ -188,7 +188,7 @@
 ***** TODO Create monads in my own shell language
 
 *** W3 D6
-    The goal of this day is to learn about math in general more 
+    The goal of this day is to learn about math in general more
 ***** TODO Wiki walk on computability theory
 ***** TODO Wiki walk on combinatorics
 ***** TODO Wiki walk on graph theory
