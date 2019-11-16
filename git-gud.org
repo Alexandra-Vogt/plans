@@ -30,12 +30,13 @@
 
 *** W0 D4
     The goal of this is to get into python more and get ready for the next few weeks
-***** TODO Read /Effective Python/ cover to cover
+***** DONE Read /Effective Python/ cover to cover
 ***** DONE Wiki walk about python2 vs python3
 
 *** W0 D5
     The goal of this is to get comfortable with debugging in python and improve note taking skills
 ***** TODO Read about note taking
+***** TODO Study python unit testing options
 ***** TODO Wiki walk on python debugger
 ***** TODO Debug test program
 ***** TODO Wiki walk on advanced features of python
@@ -43,14 +44,14 @@
 *** W0 D6
     The goal of this day is to focus on functional programming topics and create
     an insult chat bot thing.
-***** TODO Wiki walk on functional programming on python
+***** TODO Wiki walk on functional programming in python
 ***** TODO Write short program for argument generation
 
 
 ** W1 TODO LIST:
 **** TODO [#A] Git fast
 **** TODO [#B] Learn more about algorithms
-**** TODO [#B] Learn more
+**** TODO [#B] Learn more about using python
 
 *** W1 D0
     This day is list and sorting themed
@@ -88,7 +89,8 @@
 *** W1 D5
     This day is small program themed and focuses on expanding my horizons in that area
 ***** TODO Create simple gambling game in python
-***** TODO Create simple
+***** TODO Create simple guessing game in python
+***** TODO Create simple code based game in python
 
 *** W1 D6
     This day is cryptography themed
