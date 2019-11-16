@@ -31,10 +31,11 @@
 *** W0 D4
     The goal of this is to get into python more and get ready for the next few weeks
 ***** TODO Read /Effective Python/ cover to cover
-***** TODO Wiki walk about python2 vs python3
+***** DONE Wiki walk about python2 vs python3
 
 *** W0 D5
-    The goal of this is to get comfortable with debugging in python
+    The goal of this is to get comfortable with debugging in python and improve note taking skills
+***** TODO Read about note taking
 ***** TODO Wiki walk on python debugger
 ***** TODO Debug test program
 ***** TODO Wiki walk on advanced features of python
@@ -74,7 +75,10 @@
 
 *** W1 D3
     This day is graph themed and focused on implementing graph related stuff
-***** TODO implement graph in python
+***** TODO Implement graph in python
+***** TODO Implement graph traversals in python
+***** TODO Implement Dijkstra's algorithm in python
+***** TODO Implement Kahn’s algorithm for Topological Sorting
 
 *** W1 D4
     This day is re-implementation themed and centers around my project creation and terminal slideshow programs
@@ -141,6 +145,7 @@
 **** TODO [#B] Understand how internet works more
 **** TODO [#B] Get more academic knowledge of CS
 **** TODO [#B] Get more API oriented experience
+**** TODO [#B] Read and understand the /Algorithm Design Manual/ 
 
 *** W3 D0
     The goal of this is to get more skilled on network related things
@@ -194,9 +199,33 @@
 ***** TODO Wiki walk on graph theory
 ***** TODO Create basic finite state machine language
 
+
 ** W4 TODO LIST:
    This list will focus on debugging practice and making commits to open source
    projects on GitHub.
+**** TODO Git commits
+**** TODO Gain debugging experience
+
+*** W4 D0
+***** TODO Make 1 commit to open source project using python3
+
+*** W4 D1
+***** TODO Make 2 commits to open source project using python3
+
+*** W4 D2
+***** TODO Make 3 commits to open source project using python3
+
+*** W4 D3
+***** TODO Make 4 commits to open source project using python3
+
+*** W4 D4
+***** TODO Make 4 commits to open source project using python3
+
+*** W4 D5
+***** TODO Make 4 commits to open source project using python3
+
+*** W4 D6
+***** TODO Make 4 commits to open source project using python3
 
 
 ** BEFORE TEST TODO LIST:
@@ -206,6 +235,7 @@
 
 *** T-3d
 ***** TODO Go over notes and find what I need to brush up on
+***** TODO Re-read algorithm design manual
 ***** TODO Brush up on that
 
 *** T-2d
@@ -213,7 +243,6 @@
 
 *** T-1d
 ***** TODO Brush up on that even more
-***** TODO Re-read algorithm design manual
 
 *** T-0d
 ***** TODO Go over notes one last time
