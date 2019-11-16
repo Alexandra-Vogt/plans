@@ -35,11 +35,14 @@
 
 *** W0 D5
     The goal of this is to get comfortable with debugging in python and improve note taking skills
-***** TODO Read about note taking
-***** TODO Study python unit testing options
-***** TODO Wiki walk on python debugger
-***** TODO Debug test program
-***** TODO Wiki walk on advanced features of python
+***** DONE Read about note taking
+      Decision: use org-brain to take notes
+***** DONE Set up org-brain for note taking
+***** DONE Study python unit testing options
+      Decision: use unittest
+***** DONE Wiki walk on python debugger
+***** DONE Debug test program
+***** DONE Wiki walk on advanced features of python
 
 *** W0 D6
     The goal of this day is to focus on functional programming topics and create
@@ -52,6 +55,7 @@
 **** TODO [#A] Git fast
 **** TODO [#B] Learn more about algorithms
 **** TODO [#B] Learn more about using python
+**** TODO [#B] Read and understand the /Algorithm Design Manual/ 
 
 *** W1 D0
     This day is list and sorting themed
@@ -147,14 +151,14 @@
 **** TODO [#B] Understand how internet works more
 **** TODO [#B] Get more academic knowledge of CS
 **** TODO [#B] Get more API oriented experience
-**** TODO [#B] Read and understand the /Algorithm Design Manual/ 
+**** TODO [#B] Read and understand the /Algorithm Design Manual/ again 
 
 *** W3 D0
     The goal of this is to get more skilled on network related things
 ***** TODO Memorize OSI model
 ***** TODO Read about how packets work
 ***** TODO Practice IP address calculations
-***** TODO Study server design fundamentals and HTML error codes
+***** TODO Study server design fundamentals and HTTP error codes
 
 *** W3 D1
     The goal of this day is to go into OOP
