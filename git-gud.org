@@ -47,9 +47,10 @@
 *** W0 D6
     The goal of this day is to focus on functional programming topics and create
     an insult chat bot thing.
-***** TODO Wiki walk on functional programming in python
-***** TODO Write short program for argument generation
-
+***** DONE Wiki walk on functional programming in python
+***** DONE Write short program for argument generation
+***** DONE Re-read /Effective Python/
+***** DONE Implement list in python
 
 ** W1 TODO LIST:
 **** TODO [#A] Git fast
@@ -58,8 +59,6 @@
 **** TODO [#B] Read and understand the /Algorithm Design Manual/ 
 
 *** W1 D0
-    This day is list and sorting themed
-***** TODO Implement list in python
 ***** TODO Implement quick sort in python
 ***** TODO Implement merge sort in python
 ***** TODO Implement radix sort in python
@@ -159,6 +158,7 @@
 ***** TODO Read about how packets work
 ***** TODO Practice IP address calculations
 ***** TODO Study server design fundamentals and HTTP error codes
+***** TODO Study DNS system
 
 *** W3 D1
     The goal of this day is to go into OOP
