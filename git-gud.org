@@ -68,16 +68,18 @@
 
 *** W1 D1
     This day is hashing themed
-***** TODO Implement quick sort in python
-***** TODO Implement radix sort in python
-***** TODO Implement hash function in python
-***** TODO Implement hash map in python
-***** TODO Implement password system with salt in python
-***** TODO Implement file hashing program in python
-***** TODO Read quarter of /The Algorithm Design Manual/
+***** DONE Implement quick sort in python
+***** +Implement radix sort in python+
+***** DONE Implement hash function in python
+***** +Implement hash map in python+
+***** DONE Implement password system with salt in python
+***** DONE Implement file hashing program in python
+***** +Read quarter of /The Algorithm Design Manual/+
 
 *** W1 D2
     This day is binary tree themed
+***** TODO Implement radix sort in python
+***** TODO Implement hash map in python
 ***** TODO Implement binary tree in python
 ***** TODO Implement Red/Black tree in python
 ***** TODO Implement AVL tree in python
@@ -96,6 +98,7 @@
     This day is re-implementation themed
 ***** TODO Re-implement ~pcreate~ in python
 ***** TODO Re-implement ~tslides~ in python
+***** TODO Read quarter of /The Algorithm Design Manual/
 
 *** W1 D5
     This day is focused on making my own set of unit testing functions
