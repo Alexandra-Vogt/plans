@@ -53,9 +53,9 @@
 ***** DONE Implement list in python
 
 ** W1 TODO LIST:
-**** TODO [#A] Git fast
-**** TODO [#B] Learn more about algorithms
-**** TODO [#B] Learn more about using python
+**** DONE [#A] Git fast
+**** DONE [#B] Learn more about algorithms
+**** DONE [#B] Learn more about using python
 **** TODO [#B] Read and understand the /Algorithm Design Manual/ 
 
 *** W1 D0
@@ -78,16 +78,21 @@
 
 *** W1 D2
     This day is binary tree themed
-***** TODO Implement radix sort in python
-***** TODO Implement hash map in python
-***** TODO Implement binary tree in python
-***** TODO Implement Red/Black tree in python
-***** TODO Implement AVL tree in python
-***** TODO Implement all tree traversals in python
-***** TODO Read quarter of /The Algorithm Design Manual/
+***** +Implement radix sort in python+
+***** DONE Implement hash map in python
+***** DONE Implement binary tree in python
+***** +Implement Red/Black tree in python+
+***** +Implement AVL tree in python+
+***** DONE Implement all tree traversals in python
+***** DONE Read quarter of /The Algorithm Design Manual/
 
 *** W1 D3
     This day is graph themed
+***** DONE Implement radix sort in python
+      NOTE: I classify it is as done because I got bored and thought the result
+      was sufficiently funny to be a success.
+***** DONE Implement Red/Black tree in python
+***** DONE Implement AVL tree in python
 ***** TODO Implement graph in python
 ***** TODO Implement graph traversals in python
 ***** TODO Implement Dijkstra's algorithm in python
@@ -101,17 +106,17 @@
 ***** TODO Read quarter of /The Algorithm Design Manual/
 
 *** W1 D5
-    This day is focused on making my own set of unit testing functions
+    This day is focused on making my own set of games and stuff
 ***** TODO Create simple gambling game in python
 ***** TODO Create simple guessing game in python
 ***** TODO Create simple code based game in python
 
 *** W1 D6
     This day is cryptography themed
-***** TODO Create PRNG
-***** TODO Create basic one time pad program
-***** TODO Create basic stream encryption program
-***** TODO Create (shitty) password manager for terminal
+***** DONE Create PRNG
+***** DONE Create basic one time pad program
+***** DONE Create basic stream encryption program
+***** DONE Create (shitty) password manager for terminal
 
 
 ** W2 TODO LIST:
@@ -123,10 +128,10 @@
 
 *** W2 D0
     The goal of this day is to go through
-***** TODO Brush up on binary
-***** TODO Wiki walk on processor architecture
-***** TODO Wiki walk on assembly varieties
-***** TODO Brush up on IEEE Reals
+***** DONE Brush up on binary
+***** DONE Wiki walk on processor architecture
+***** DONE Wiki walk on assembly varieties
+***** DONE Brush up on IEEE Reals
 
 *** W2 D1
     The goal of this day is to design a VM and practice there
