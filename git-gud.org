@@ -135,13 +135,13 @@
 
 *** W2 D1
     The goal of this day is to design a VM and practice there
-***** TODO Design assembly for VM
+***** DONE Design assembly for VM
 ***** TODO Write assembler for the VM
 ***** TODO Write interpreter for byte-code
 
 *** W2 D2
     The goal of this day is to practice multi-threading
-***** TODO Wiki walk on multi-threading
+***** DONE Wiki walk on multi-threading
 ***** TODO Create multi-threaded version of primefinder in C++
 
 *** W2 D3
