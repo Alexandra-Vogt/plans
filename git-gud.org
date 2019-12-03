@@ -193,8 +193,9 @@
 *** W3 D3
     The goal of this day is to create an org mode discord bot for discord so I
     can get ORGanized.
-***** TODO Get discord bot account
-***** TODO Figure out Discord python API
+***** DONE Get discord bot account
+***** DONE Figure out Discord python API
+***** DONE Create Brainfuck interpreter in python for bot
 ***** TODO Create program for the bot to fetch data from discord
 ***** TODO Create program for the bot to send schedules to discord
 ***** TODO Crate relevant emacs hooks for bot
