@@ -170,11 +170,11 @@
 
 *** W3 D0
     The goal of this is to get more skilled on network related things
-***** TODO Memorize OSI model
-***** TODO Read about how packets work
-***** TODO Practice IP address calculations
-***** TODO Study server design fundamentals and HTTP error codes
-***** TODO Study DNS system
+***** DONE Memorize OSI model
+***** DONE Read about how packets work
+***** DONE Practice IP address calculations
+***** DONE Study server design fundamentals and HTTP error codes
+***** DONE Study DNS system
 
 *** W3 D1
     The goal of this day is to go into OOP
@@ -196,8 +196,8 @@
 ***** DONE Get discord bot account
 ***** DONE Figure out Discord python API
 ***** DONE Create Brainfuck interpreter in python for bot
-***** TODO Create program for the bot to fetch data from discord
-***** TODO Create program for the bot to send schedules to discord
+***** DONE Create program for the bot to fetch data from discord
+***** DONE Create program for the bot to send schedules to discord
 ***** TODO Crate relevant emacs hooks for bot
 
 *** W3 D4
