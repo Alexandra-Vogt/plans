@@ -178,10 +178,10 @@
 
 *** W3 D1
     The goal of this day is to go into OOP
-***** TODO Go over UML again
-***** TODO Wiki walk on OOP concepts more and fundamental design concepts
-***** TODO Wiki walk on how classes are implemented in various languages
-***** TODO Wiki walk on how garbage collection works in modern languages
+***** DONE Go over UML again
+***** DONE Wiki walk on OOP concepts more and fundamental design concepts
+***** DONE Wiki walk on how classes are implemented in various languages
+***** DONE Wiki walk on how garbage collection works in modern languages
 
 *** W3 D2
     The goal of this day is to create the first GUI app I am proud of and don't
@@ -198,19 +198,18 @@
 ***** DONE Create Brainfuck interpreter in python for bot
 ***** DONE Create program for the bot to fetch data from discord
 ***** DONE Create program for the bot to send schedules to discord
-***** TODO Crate relevant emacs hooks for bot
 
 *** W3 D4
     The goal of this day is to study type systems.
-***** TODO Wiki walk on category theory
-***** TODO Wiki walk on type systems
-***** TODO Wiki walk on set theory
+***** DONE Wiki walk on category theory
+***** DONE Wiki walk on type systems
+***** DONE Wiki walk on set theory
 ***** TODO Add types to my shell if I can
 
 *** W3 D5
     The goal of this day is to become comfortable with explaining monads to
     people and not look insane doing so
-***** TODO Wiki walk on monads
+***** DONE Wiki walk on monads
 ***** TODO Wiki walk on functional programming languages
 ***** TODO Implement some lambda calculus stuff in python
 ***** TODO Create monads in my own shell language
